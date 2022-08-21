@@ -1,0 +1,15 @@
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/bin/Debug/net6.0/Abtraction
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/bin/Debug/net6.0/Abtraction.deps.json
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/bin/Debug/net6.0/Abtraction.runtimeconfig.json
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/bin/Debug/net6.0/Abtraction.dll
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/bin/Debug/net6.0/Abtraction.pdb
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/Abtraction.csproj.AssemblyReference.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/Abtraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/Abtraction.AssemblyInfoInputs.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/Abtraction.AssemblyInfo.cs
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/Abtraction.csproj.CoreCompileInputs.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/Abtraction.dll
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/refint/Abtraction.dll
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/Abtraction.pdb
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/Abtraction.genruntimeconfig.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Abtraction/obj/Debug/net6.0/ref/Abtraction.dll

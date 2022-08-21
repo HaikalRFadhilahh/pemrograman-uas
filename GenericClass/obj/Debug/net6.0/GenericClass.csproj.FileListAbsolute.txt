@@ -1,0 +1,15 @@
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/bin/Debug/net6.0/GenericClass
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/bin/Debug/net6.0/GenericClass.deps.json
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/bin/Debug/net6.0/GenericClass.runtimeconfig.json
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/bin/Debug/net6.0/GenericClass.dll
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/bin/Debug/net6.0/GenericClass.pdb
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/GenericClass.csproj.AssemblyReference.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/GenericClass.AssemblyInfoInputs.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/GenericClass.AssemblyInfo.cs
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/GenericClass.csproj.CoreCompileInputs.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/GenericClass.dll
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/refint/GenericClass.dll
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/GenericClass.pdb
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/GenericClass.genruntimeconfig.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/GenericClass/obj/Debug/net6.0/ref/GenericClass.dll

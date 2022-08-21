@@ -1,0 +1,15 @@
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/bin/Debug/net6.0/Dependencies
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/bin/Debug/net6.0/Dependencies.deps.json
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/bin/Debug/net6.0/Dependencies.runtimeconfig.json
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/bin/Debug/net6.0/Dependencies.dll
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/bin/Debug/net6.0/Dependencies.pdb
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/Dependencies.csproj.AssemblyReference.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/Dependencies.AssemblyInfoInputs.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/Dependencies.AssemblyInfo.cs
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/Dependencies.csproj.CoreCompileInputs.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/Dependencies.dll
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/refint/Dependencies.dll
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/Dependencies.pdb
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/Dependencies.genruntimeconfig.cache
+/home/Mini/Desktop/Pemrogrograman UAS/Nomer 1/Dependencies/obj/Debug/net6.0/ref/Dependencies.dll
